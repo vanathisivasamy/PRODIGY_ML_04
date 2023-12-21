@@ -9,8 +9,6 @@ The dataset used for training and testing the hand gesture recognition model is 
 
 **Kaggle Dataset Link:** https://www.kaggle.com/gti-upm/leapgestrecog
 
-Please download the dataset and place it in the `data/` directory before running the code.
-
 ## Model Used
 We have implemented a deep learning model for hand gesture recognition. Convolutional Neural Networks (CNNs) are commonly used for image-related tasks, and they are particularly effective for recognizing patterns in image data. The model will be trained to learn and recognize the distinctive features of different hand gestures.
 
